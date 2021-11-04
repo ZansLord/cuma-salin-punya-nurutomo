@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZansLord/cuma-salin-punya-nurutomo)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -17,6 +17,7 @@ cd wabot-aq
 npm install
 npm update
 ```
+## ZANS LORD MENOLAK WIBU
 
 ## INSTALL ON TERMUX WITH UBUNTU
 
